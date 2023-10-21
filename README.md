@@ -4,7 +4,9 @@ This research delved into American gun violence data spanning from 2013 to June 
 Limitations:
 
 -The dataset lacks information regarding the motives behind incidents.
+
 -Age details of both perpetrators and victims are absent.
+
 -Data is available only up to May 2022, excluding any subsequent information.
 
 Key Questions:
